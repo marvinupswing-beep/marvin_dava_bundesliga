@@ -1,0 +1,7 @@
+Data: StatsBomb Open Data
+Retrieved: 2026-11-21
+Repository: https://github.com/statsbomb/open-data
+Matches: https://raw.githubusercontent.com/statsbomb/open-data/master/data/matches/9/281.json
+Events: https://raw.githubusercontent.com/statsbomb/open-data/master/data/events/{match_id}.json
+34 unmodified JSON event files and one match file, compressed with gzip.
+Competition 9; season 281. Only Bayer Leverkusen league matches.
